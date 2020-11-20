@@ -7,7 +7,8 @@ After the collapse of the USSR, its component states formed governments and econ
 
 To gain insight into the geopolitical nuances of the region, I’ve mapped out the countries by their military expenditure and their Human Freedom Index. The Human Freedom Index presents the state of human freedom in the world based on a broad measure that encompasses personal, civil, and economic freedom. [1] Military expenditure is a percentage of GDP for the post-Soviet nations in 2017. [2] A Freedom-Military Spend quadrant best shows where each country is positioned and a correlation plot highlights if there are any trends particular to each quadrant. 
 
-(quad image)
+!(https://github.com/animichelle/animichelle/blob/main/quad.jpg)
+
 
 Quadrant Analysis: 
 I) This quadrant is characterized by high human freedom and low military spend. In it are Georgia, Lithuania, Latvia, Estonia, which are all countries that have disassociated from the Soviet block and have aligned themselves with the European Union. Their clustered location on the quadrant is explained well by their similar economic behaviors. 
