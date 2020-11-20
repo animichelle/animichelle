@@ -22,7 +22,7 @@ IV) The low freedom-low military spend quadrant is made up of the USSR's Central
 Correlation Analysis:
 While the data is limited, there is a weak linear correlation when looking at the two quadrants of low military spend (I & IV). In these countries, Human Freedom increases as military expenditure decreases. Tied back with insights from the quadrant chart, this correlation indicates that the quadrants might have distinct patterns. 
 
-(/animichelle/animichelle/blob/main/corr.jpg)
+[(/animichelle/animichelle/blob/main/corr.jpg)]
 
 
 Overall, the findings in this project were surprising. With knowledge on the geopolitical dynamics of the post-Soviet space, the way the countries mapped out in relation to each other is fascinating as it is broken up into countries ‘with conflict’ and ‘without’ at first glance. Digging deeper with more data (such as more years or a third variable) might be the next step to see how conflict affects human freedom. 
